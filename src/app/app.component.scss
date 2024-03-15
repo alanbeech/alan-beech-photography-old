@@ -1,0 +1,14 @@
+main {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+  img {
+    height: 90%;
+    border: 20px solid white;
+    outline: 1px solid black;
+    box-shadow: 0 0 10px 5px black;
+  }
+}
